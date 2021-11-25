@@ -34,4 +34,4 @@ for a in range(N-8+1):
 
 
 print(c)            
-print(min(c))
+#print(min(c))
